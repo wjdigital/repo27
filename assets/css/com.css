@@ -17,16 +17,46 @@
   }
 }
 
+.bg-dark p {
+	color: #717375;
+	font-size: 11px;
+}
+
+
+
 h1, h2, h3, h4 {
-	font-family: 'Sora', sans-serif;
+	font-family: 'Russo One', sans-serif;
 	font-size: 25px;
 	font-weight: 700;
 }
 p {
 	font-family: 'Sora', sans-serif;
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 400;
 }
+
+.barra1 {
+	background-color: #6A169A;
+	color: #fff;
+	
+}
+
+.barra1 p {
+	font-family: 'Sora', sans-serif;
+	font-size: 14px;
+	margin: 0;
+}
+
+h1 span, p span, h3 span, .barra span {
+    color: #d9ff00;
+}
+
+.paragrafo p{
+	font-size: 14px;
+}
+
+
+
 
 body {
   font-size: 16px;
