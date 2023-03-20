@@ -17,6 +17,16 @@
   }
 }
 
+
+
+h2 span {
+	color: #FFA600;
+}
+
+.yellow span {
+  color: #FFA600;
+}
+
 .bg-dark p {
 	color: #717375;
 	font-size: 11px;
@@ -41,7 +51,19 @@ p {
 	
 }
 
+.barra2 {
+	background-color: #FFA600;
+	color: #fff;
+	
+}
+
 .barra1 p {
+	font-family: 'Sora', sans-serif;
+	font-size: 14px;
+	margin: 0;
+}
+
+.barra2 p {
 	font-family: 'Sora', sans-serif;
 	font-size: 14px;
 	margin: 0;
@@ -50,6 +72,8 @@ p {
 h1 span, p span, h3 span, .barra span {
     color: #d9ff00;
 }
+
+
 
 .paragrafo p{
 	font-size: 14px;
@@ -273,6 +297,7 @@ tr {
       text-decoration: none!important;
     }
 	
+	
 	.a-btn2 {
       text-decoration: none;
       -webkit-font-smoothing: antialiased;
@@ -316,6 +341,30 @@ tr {
       box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5); 
       text-decoration: none!important;
     }
+	
+	
+	.a-btn4 {
+      text-decoration: none;
+      -webkit-font-smoothing: antialiased;
+      margin: 0;
+      border: 0; 
+      font: inherit; 
+      vertical-align: baseline;
+      color: #2e82bc; 
+      outline: 0; 
+      line-height: 1; 
+      text-align: center; 
+      position:relative!important; display: inline-block!important;
+      border-style: solid; 
+      width: 100%; padding-left: 0!important; padding-right: 0!important; 
+      margin-bottom: 10px; 
+      padding: 22px 44px; border-color: #ff5535; border-width: 0px; 
+      border-radius: 6px; 
+      background: linear-gradient(to bottom, #FFA600 0%, #FFA600 100%); 
+      box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5); 
+      text-decoration: none!important;
+    }
+	
     .span-btn {
       text-decoration: none;
       -webkit-font-smoothing: antialiased; 
