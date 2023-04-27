@@ -403,6 +403,6 @@ tr {
       text-shadow: #000000 0px 1px 0px;
     }
 
-.footer, a {
-	color: #717375;
+.bg-dark a {
+    color: #717375;
 }
